@@ -1,0 +1,39 @@
+#main-heading {
+  text-decoration: underline solid;
+  background-color: orange;
+}
+
+.sub-section {
+  padding-bottom: 30px;
+}
+
+#sub-heading {
+  text-decoration: underline dashed;
+  background-color: yellow;
+}
+
+.topic-heading {
+  text-decoration: underline double;
+  text-underline-offset: 5px;
+  color: green;
+}
+
+.list-items {
+  color: red;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.list-items div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  background-color: lightgreen;
+  font-weight: bold;
+  border: 5px solid green;
+  font-size: 25px;
+  padding: 20px 50px;
+}
