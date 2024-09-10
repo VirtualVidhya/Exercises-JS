@@ -1,0 +1,25 @@
+body {
+    margin: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+form {
+    margin-bottom: 50px;
+}
+
+input {
+    font-size: 25px;
+    padding: 5px;
+}
+
+button {
+    font-size: 25px;
+    padding: 5px 15px;
+}
+
+li {
+    font-size: 25px;
+}
