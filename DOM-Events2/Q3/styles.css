@@ -1,0 +1,21 @@
+.menu {
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+}
+
+.menu h1, .menu h2 {
+    text-align: center;
+}
+
+.menu-hidden {
+    display: none;
+}
+
+table {
+    text-align: center;
+}
+
+table td {
+    width: 12.5%;
+}
