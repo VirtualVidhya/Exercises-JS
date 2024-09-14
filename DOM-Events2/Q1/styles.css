@@ -1,25 +1,21 @@
-body {
-    margin: 25px;
+.menu {
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
 }
 
-h1 {
-    font-size: 50px;
+.menu h1, .menu h2 {
+    text-align: center;
 }
 
-form {
-    margin-bottom: 50px;
+.menu-hidden {
+    display: none;
 }
 
-input {
-    font-size: 25px;
-    padding: 5px;
+table {
+    text-align: center;
 }
 
-button {
-    font-size: 25px;
-    padding: 5px 15px;
-}
-
-li {
-    font-size: 25px;
+table td {
+    width: 12.5%;
 }

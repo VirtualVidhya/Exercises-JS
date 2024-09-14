@@ -10,14 +10,9 @@ form {
     margin-bottom: 50px;
 }
 
-label {
-    font-size: 20px;
-}
-
 input {
-    font-size: 20px;
+    font-size: 25px;
     padding: 5px;
-    margin-bottom: 10px;
 }
 
 button {
@@ -25,6 +20,6 @@ button {
     padding: 5px 15px;
 }
 
-p {
+li {
     font-size: 25px;
 }
