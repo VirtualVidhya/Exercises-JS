@@ -48,10 +48,10 @@ function CheckEnrollmentEligibility() {
         reason.innerText = `Because you're still quite young to learn this.`;
     }
     else if (!compCheckbox.checked) {
-        reason.innerText = `Because you can't operate a Computer, which is mandatory for this course`;
+        reason.innerText = `Because you can't operate a Computer, which is mandatory for this course.`;
     }
     else if (!internetCheckbox.checked) {
-        reason.innerText = `Because you aren't quite familiar with the Internet, which is mandatory for this course`;
+        reason.innerText = `Because you aren't quite familiar with the Internet, which is mandatory for this course.`;
     }
 
     body.appendChild(reason);
